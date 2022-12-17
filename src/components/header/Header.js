@@ -86,7 +86,6 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Home
               </NavLink>
             </li>
             <li>
@@ -97,7 +96,6 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Education and Certifications
               </NavLink>
             </li>
             <li>
@@ -108,7 +106,6 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Experience
               </NavLink>
             </li>
             <li>
@@ -119,7 +116,6 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Projects
               </NavLink>
             </li>
             <li>
@@ -130,7 +126,6 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Contact and Resume
               </NavLink>
             </li>
             <button {...styles} onClick={changeTheme}>
