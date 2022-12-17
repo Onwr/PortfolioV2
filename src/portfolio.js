@@ -10,25 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
-  subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+  title2: "Onur",
+  logo_name: "onur()",
+  nickname: "Onur / Lowzy",
+  full_name: "Onur Kürkaya",
+  subTitle: "Front End Developer, Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+    "",
+  mail: "mailto:onurkurkaya0@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  github: "https://github.com/onurkurkaya",
+  linkedin: "",
+  gmail: "onurkurkaya0@gmail.com",
+  gitlab: "https://gitlab.com/onurkurkaya",
+  facebook: "",
+  twitter: "",
+  instagram: "https://www.instagram.com/onwrxrd",
 };
 
 const skills = {
@@ -108,34 +108,34 @@ const skills = {
         //     color: "#DE33A6",
         //   },
         // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
+       // {
+          //skillName: "Android",
+          //fontAwesomeClassname: "simple-icons:android",
+          //style: {
+           // color: "#3DDC84",
+         // },
+        //},
+        //{
+          //skillName: "Java",
+          //fontAwesomeClassname: "simple-icons:java",
+          //style: {
+            //color: "#f89820",
+          //},
+       // },
+        //{
+         // skillName: "Flutter",
+         // fontAwesomeClassname: "simple-icons:flutter",
+          //style: {
+           // color: "#02569B",
+          //},
+        //},
+        //{
+         // skillName: "Dart",
+          //fontAwesomeClassname: "simple-icons:dart",
+          //tyle: {
+          //  color: "#29B0EE",
+          //},
+        //},
         // {
         //   skillName: "Visual Basic",
         //   fontAwesomeClassname: "simple-icons:dot-net",
@@ -164,13 +164,13 @@ const skills = {
             color: "#207297",
           },
         },
-        {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
+        //{
+          //skillName: "Apache",
+          //fontAwesomeClassname: "simple-icons:apache",
+          //style: {
+           // color: "#CA1A22",
+         // },
+       // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -178,20 +178,13 @@ const skills = {
             color: "#E94E32",
           },
         },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
+        //{
+         // skillName: "C",
+         // fontAwesomeClassname: "simple-icons:c",
+          //style: {
+           // color: "#E94E32",
+          //},
+        //},
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
@@ -202,7 +195,7 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+/*      title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
@@ -893,7 +886,7 @@ const projects = {
     },
   ],
 };
-
+*/
 export {
   settings,
   greeting,
